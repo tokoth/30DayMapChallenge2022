@@ -8,4 +8,4 @@ You can interact with the map here.
 
 <iframe src="https://github.com/tokoth/30DayMapChallenge2022/blob/main/day15_interactive_map.html" height="800" width="1000"></iframe>
 
-Explore the interactive map further [here](https://github.com/tokoth/30DayMapChallenge2022/blob/main/day15_interactive_map.html).
+Explore the interactive map further [here](https://github.com/tokoth/30DayMapChallenge2022/day15_interactive_map.html).
